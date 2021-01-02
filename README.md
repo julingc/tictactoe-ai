@@ -18,7 +18,7 @@ Run `pip3 install -r requirements.txt` to install pygame.
 
 ## Getting Started
 
-`cd tictactoe` and run `python3 runner.py` to start playing!
+`cd` to the directory and run `python3 runner.py` to start playing!
 
 
 
