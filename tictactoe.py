@@ -128,7 +128,6 @@ def minimax(board):
         if player(board) == O:
             v, optimal_action = min_value_action(board)
             return optimal_action
-    raise NotImplementedError
 
 def min_value_action(board):
     """
